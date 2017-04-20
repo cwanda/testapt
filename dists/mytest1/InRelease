@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: mytest1
+Date: Thu, 20 Apr 2017 17:46:00 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ 071598244e5068e13be18f623a927f7d 908 main/binary-amd64/Packages
+ eeef96cc611a6dfe57258872d278d032 505 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+SHA1:
+ 7da2c175af363e392c1bc11704b6cb27f5a34016 908 main/binary-amd64/Packages
+ 7a95f9204024af26527395b0a4134ce9e50012c6 505 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+SHA256:
+ ee75df0bc94cb33d3f1def8e203f7b7be186232287eb23a0f73cd9b0f109f9c2 908 main/binary-amd64/Packages
+ 3374581d1a2caed153868da454be2d7ab8807a9f9828186121b4059d5a395ad7 505 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCAAGBQJY+PPqAAoJEPLco+RX1iprMlEP/jbKD0bkXrJSZSLcFG8aX2Ls
+xXBeP8joHMXp+Z3p1tLDJ53/nd553jU2HUYPBgtXBFwo7kBqJ9fDzxfp/VMVznrv
+B16JJDhX0WQmzzrAncJ5/unY3OLfYBI69MZ1hlTmdLiLNrqZUcnsJBLBCtLSEPXj
+BhZ3oEb4dyV6OQvQXphBnLRxHPW1hjv8/EI2tM5OuxSulZadwqapM+fEs9IMRxJz
+wuNTpCHkHvk1Iu09Vp8mxGF4zjxZnBkIDoJWQ2d5gX70F6SUM2qJVXkLki3b7v8S
+Kx67FQ/DDtNVCEDiY3MfsHOWhhHWiJ+HBG2jPj04XWuRBnfv27nvv9IoRbYNEFTP
+F4ROKyMlEqmD7UWIjJC2qszxRpU7J7ATcPmBk5Y5KFPIUqZfbYAlregTtyUuSpNF
+xGri5NdYAzT3JUnjX1VCbdk7qeNr2y7epdThTszC5iav5MH/MKBs4pzaYAiBKOSj
+ZPbKXj6vFsH7nM6AYmKcan7jh3H8AFqdm4USRD8JoqI2mQwTKWF+s65DbhuXbVOu
++yQjIEpqEP4dUlTmSLTO2AKMLUweBsAg9zmZyqm+9dH5Wsbd1e1KPLT7rTveJY8o
+RQDayBGkgMvnXdTKzPDCAZ36pXOlAddgnYcaCmsoOYccvOZP9h5PnASFj4tS3CL8
+pyn4RE4/2Rnc3Oh5t5th
+=jcY+
+-----END PGP SIGNATURE-----
